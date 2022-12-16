@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto foi elaborado durante a segunda semana do programa Explorer da [Rocketseat](https://www.rocketseat.com.br/) no stage 02, onde foram abordados os seguintes conceitos:
+O projeto foi elaborado durante o programa Explorer da [Rocketseat](https://www.rocketseat.com.br/) no stage 02, onde foram abordados os seguintes conceitos:
 
 - Apresentação e posicionamento dos elementos na tela
 - Aplicação de fontes customizadas 
