@@ -9,9 +9,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## 💻 Acesse pelo Codepen
-- [CODEPEN](https://codepen.io/murilocaires/pen/XWBrNJe?editors=1100)
-
 ## :scroll: Projeto
 
 O projeto foi elaborado durante o programa Explorer da [Rocketseat](https://www.rocketseat.com.br/) no stage 02, onde foram abordados os seguintes conceitos:
