@@ -1,4 +1,4 @@
-# PROJETO 1 -  EXPLORER ROCKETSEAT
+# TRILHA EXPLORER ROCKETSEAT - PROJETO 1
 
 ![Screenshot](https://user-images.githubusercontent.com/71847081/163280090-a26a1331-9968-4519-91c1-c0a98fd74b08.png)
 
