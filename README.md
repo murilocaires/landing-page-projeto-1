@@ -10,6 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## :scroll: Projeto
+- [Acesse o projeto finalizado, online](https://murilocaires.github.io/landing-page-projeto-1/)
 
 O projeto foi elaborado durante o programa Explorer da [Rocketseat](https://www.rocketseat.com.br/) no stage 02, onde foram abordados os seguintes conceitos:
 
